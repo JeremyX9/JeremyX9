@@ -5,7 +5,7 @@ I am currently doing an apprenticeship as an IT specialist for application devel
 <br>
 <br>
 ## Private Projects
-- <a href="https://google.com">Discord-Bot</a>
+- <a href="https://discord.gg/gQH3M747VX">Discord-Bot</a>
 - <a href="https://google.com">NPM Pastebin.js API</a>
 - <a href="https://jeremyx9.me">Personal Website</a>
 

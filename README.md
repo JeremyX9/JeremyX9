@@ -6,7 +6,7 @@ I am currently doing an apprenticeship as an IT specialist for application devel
 <br>
 ## Private Projects
 - <a href="https://discord.gg/gQH3M747VX">Discord-Bot</a>
-- - <a href="#">Sevice Manager</a>
+- <a href="#">Sevice Manager</a>
 - <a href="#">NPM Pastebin.js API</a>
 - <a href="#">Personal Website</a>
 

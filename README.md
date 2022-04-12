@@ -6,13 +6,18 @@ I am currently doing an apprenticeship as an IT specialist for application devel
 <br>
 ## Private Projects
 - <a href="https://discord.gg/gQH3M747VX">Discord-Bot</a>
-- <a href="https://google.com">NPM Pastebin.js API</a>
-- <a href="https://jeremyx9.me">Personal Website</a>
+- - <a href="#">Sevice Manager</a>
+- <a href="#">NPM Pastebin.js API</a>
+- <a href="#">Personal Website</a>
 
 ## My programming partners
 - <a href="https://github.com/Nollknolle">Nlmyr</a>
 - Jonas / Anwendung
 
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyX9&show_icons=true&theme=radical)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 <br>
 <br>
 

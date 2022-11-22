@@ -4,15 +4,7 @@
 I am currently doing an apprenticeship as an IT specialist for application development and I am constantly learning new things
 <br>
 <br>
-## Private Projects
-- <a href="https://discord.gg/gQH3M747VX">Discord-Bot</a>
-- <a href="#">Sevice Manager</a>
-- <a href="#">NPM Pastebin.js API</a>
-- <a href="#">Personal Website</a>
 
-## My programming partners
-- <a href="https://github.com/Nollknolle">Nlmyr</a>
-- Jonas / Anwendung
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyX9&show_icons=true&theme=radical)
